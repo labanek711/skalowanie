@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\bin\Debug\skalowanieHistogramu.exe.config
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\bin\Debug\skalowanieHistogramu.exe
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\bin\Debug\skalowanieHistogramu.pdb
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\obj\Debug\skalowanieHistogramu.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\obj\Debug\skalowanieHistogramu.Form1.resources
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\obj\Debug\skalowanieHistogramu.Properties.Resources.resources
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\obj\Debug\skalowanieHistogramu.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\obj\Debug\skalowanieHistogramu.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\obj\Debug\skalowanieHistogramu.exe
+C:\Users\pawel\source\repos\skalowanieHistogramu\skalowanieHistogramu\obj\Debug\skalowanieHistogramu.pdb
