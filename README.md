@@ -1,4 +1,4 @@
-# skalowanie
+
 # Skalowanie histogramu
 ![Alt text](skalowanie.PNG)
 # Filtr uśredniający
