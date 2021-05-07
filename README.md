@@ -1,7 +1,7 @@
 # skalowanie
-#Skalowanie histogramu
+# Skalowanie histogramu
 ![Alt text](skalowanie.PNG)
-#Filtr uśredniający
+# Filtr uśredniający
 ![Alt text](usredniajacy.PNG)
-#Filtr Gauss'a
+# Filtr Gauss'a
 ![Alt text](gauss.PNG)
